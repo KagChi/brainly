@@ -4,7 +4,7 @@
   "description": "Brainly scrape for gethering information",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -29,8 +29,8 @@
   },
   "dependencies": {
     "cheerio": "1.0.0-rc.3",
-    "request": "2.88.3",
+    "request": "^2.88.2",
     "request-promise": "4.2.5",
-    "proxy-lists": "1.23.0"
+    "proxy-lists": "^1.23.0"
   }
 }

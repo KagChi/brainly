@@ -28,9 +28,9 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "dependencies": {
-    "cheerio": "*",
-    "request": "*",
-    "request-promise": "*",
-    "proxy-lists": "*"
+    "cheerio": "1.0.0-rc.3",
+    "request": "2.88.3",
+    "request-promise": "4.2.5",
+    "proxy-lists": "1.23.0"
   }
 }
